@@ -1,0 +1,24 @@
+@font-face {
+    font-family: DungGeunMo;
+    src: url("DungGeunMo.woff")
+}
+
+body {
+    font-family: DungGeunMo, DOS, Monaco, Menlo, Consolas, monospace;
+    color: white;
+    background-color: #000084;
+}
+
+#header {
+    text-align: center;
+}
+
+#subtitle {
+    margin: 80px 8px 80px 8px;
+}
+
+.header_menu {
+    transform-origin: 0 100%;
+    height: 3px;
+    background: #f0f0f0;
+}
